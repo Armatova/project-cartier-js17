@@ -1,4 +1,4 @@
-export const JEWELRY_API = "http://localhost:8001/jewelry";
+export const JEWELRY_API = "https://project-cartier-js17.herokuapp.com/jewelry";
 
 export const ADMIN_EMAIL = "js17@gmail.com";
 
